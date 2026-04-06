@@ -1,3 +1,3 @@
 #Demo
 
-Learning to create a README file.
+Learning to update a README file.
